@@ -1,6 +1,6 @@
 # About this fan-made
 
-This fan-made game was originally developed in Unity 2021.3.12f1. I decided to create a “clone” of The Simpsons: Hit & Run to learn how to use Unity. This is my first personal Unity project, so you will find some bugs, some of them can be fixed easily, while others I have no idea how to fix yet. Probably in the near future I'll add more missions from the first chapter of Homer. Currently, Mission 0 is finished, and only the introduction of Mission 1 is completed.
+This fan-made game was originally developed in Unity 2021.3.12f1. I decided to create a “clone” of The Simpsons: Hit & Run to learn how to use Unity. This is my first personal Unity project, so you will find some bugs, some of them can be fixed easily, while others I have no idea how to fix it yet. Probably in the near future I'll add more missions from the first chapter of Homer. Currently, Mission 0 is finished, and only the introduction of Mission 1 is completed.
 
 # Installation
 
